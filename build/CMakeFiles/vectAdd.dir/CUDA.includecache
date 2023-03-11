@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/merm/Desktop/vectorAdd/vectAdd.cu
+stdio.h
+-
+cuda_runtime.h
+-
+device_launch_parameters.h
+/home/merm/Desktop/vectorAdd/device_launch_parameters.h
+

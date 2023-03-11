@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/merm/Desktop/vectorAdd/build",
+  "command": "/usr/local/cuda/bin/nvcc    -g   -x cu -c /home/merm/Desktop/vectorAdd/vectAdd.cu -o CMakeFiles/vectAdd.dir/vectAdd.cu.o",
+  "file": "/home/merm/Desktop/vectorAdd/vectAdd.cu"
+}
+]

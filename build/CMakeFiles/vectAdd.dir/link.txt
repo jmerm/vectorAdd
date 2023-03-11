@@ -1,0 +1,1 @@
+/usr/bin/g++   CMakeFiles/vectAdd.dir/vectAdd.cu.o CMakeFiles/vectAdd.dir/cmake_device_link.o -o vectAdd  -L"/usr/local/cuda/targets/aarch64-linux/lib/stubs" -L"/usr/local/cuda/targets/aarch64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc  -g  -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/vectAdd.dir/vectAdd.cu.o -o CMakeFiles/vectAdd.dir/cmake_device_link.o 
