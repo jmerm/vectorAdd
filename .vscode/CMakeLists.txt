@@ -1,0 +1,1 @@
+make -DCMAKE_CUDA_FLAGS=”-arch=sm_30”
