@@ -31,6 +31,11 @@ int main()
 
     cudaMemcpy(c, cC, sizeof(c), cudaMemcpyDeviceToHost);
 
-    return;
+    for(int i = 0; i < (sizeof(a) / sizeof(int)); i++)
+    {
+        printf("%d,",c[i]);
+    }
+
+    return 0;
 }
 
